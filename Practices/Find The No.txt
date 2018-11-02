@@ -1,0 +1,187 @@
+/*
+Find the number!
+Given an unsorted array of n elements, find if the element k is present in the array or not.
+
+Complete the findNumber function in the editor below. It has 2 parameters:
+
+An array of integers, arr, denoting the elements in the array.
+An integer, k, denoting the element to be searched in the array.
+The function must return a string "YES" or "NO" denoting if the element is present in the array or not.
+
+ 
+
+Input Format
+
+ 
+
+The first line contains an integer n, denoting the number of elements in the array arr.
+
+Each line i of the n subsequent lines (where 0 ≤ i < n) contains an integer describing arri.
+
+The next line contains an integer, k, the element that needs to be searched. 
+
+ 
+
+Constraints
+
+1 ≤ n ≤ 105
+1 ≤ arr[i] ≤ 109
+ 
+
+Output Format
+
+The function must return a string "YES" or "NO" denoting if the element is present in the array or not. This is printed to stdout by locked stub code in the editor.
+
+ 
+
+Sample Input 0
+
+5
+1
+2
+3
+4
+5
+1
+ 
+
+Sample Output 0
+
+YES
+ 
+
+Explanation 0
+
+Given the array = [1, 2, 3, 4, 5], we want to find the element 1 if it is present or not. We can find the element 1 at index = 0. Therefore we print "YES".
+
+ 
+
+Sample Input 1
+
+3
+2
+3
+1
+5
+ 
+
+Sample Output 1
+
+NO
+ 
+
+Explanation 1
+
+Given the array [2, 3, 1] and k = 5. There is no element 5 in the array and therefore we print "NO".
+
+ 
+
+YOUR ANSWER
+*/
+
+# JavaScript (NodeJs): Solution:-
+'use strict';
+
+const fs = require('fs');
+
+process.stdin.resume();
+process.stdin.setEncoding('utf-8');
+
+let inputString = '';
+let currentLine = 0;
+
+process.stdin.on('data', function(inputStdin) {
+    inputString += inputStdin;
+});
+
+process.stdin.on('end', function() {
+    inputString = inputString.split('\n');
+
+    main();
+});
+
+function readLine() {
+    return inputString[currentLine++];
+}
+//
+// Your Code goes Here...
+// Complete the findNumber function below.
+function findNumber(arr, k) {
+    var l=arr.length;
+    var i=0;
+    for(i=0; i<l;i++){
+        if(arr[i]==k){
+            return "YES";
+        }        
+    }
+    return "NO";
+}
+
+//
+function main() {
+    const ws = fs.createWriteStream(process.env.OUTPUT_PATH);
+
+    const arrCount = parseInt(readLine().trim(), 10);
+
+    let arr = [];
+
+    for (let i = 0; i < arrCount; i++) {
+        const arrItem = parseInt(readLine().trim(), 10);
+        arr.push(arrItem);
+    }
+
+    const k = parseInt(readLine().trim(), 10);
+
+    const res = findNumber(arr, k);
+
+    ws.write(res + '\n');
+
+    ws.end();
+}
+
+# JS finish....
+
+# JAVA  Solution...
+///
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+
+public class Solution {
+ // your code goes here...
+// Complete the findNumber function below.
+    static String findNumber(List<Integer> arr, int k) {
+        if(arr.contains(k)){
+            return "YES";
+        }
+        return "NO";
+    }
+
+public static void main(String[] args) throws IOException {
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
+
+        int arrCount = Integer.parseInt(bufferedReader.readLine().trim());
+
+        List<Integer> arr = new ArrayList<>();
+
+        for (int i = 0; i < arrCount; i++) {
+            int arrItem = Integer.parseInt(bufferedReader.readLine().trim());
+            arr.add(arrItem);
+        }
+
+        int k = Integer.parseInt(bufferedReader.readLine().trim());
+
+        String res = findNumber(arr, k);
+
+        bufferedWriter.write(res);
+        bufferedWriter.newLine();
+
+        bufferedReader.close();
+        bufferedWriter.close();
+    }
+}
