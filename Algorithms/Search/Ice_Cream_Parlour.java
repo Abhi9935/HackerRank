@@ -1,6 +1,6 @@
 /*
-# Practice > Algorithms > Search > Ice Cream Parlor
-# Ice Cream Parlor
+### Practice > Algorithms > Search > Ice Cream Parlor###
+_Ice Cream Parlor_
 # Problem Solving
 
 Sunny and Johnny like to pool their money and go to the ice cream parlor. 
