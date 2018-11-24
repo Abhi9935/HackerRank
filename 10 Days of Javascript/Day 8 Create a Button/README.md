@@ -2,10 +2,10 @@
 ![](https://hrcdn.net/hackerrank/assets/brand/h_mark_sm-9c05999c62674028552f4e813728e591.svg)
 ###### author: [**Abhinav Kushwaha (Baba Albus)**](http://babaalbus.com/ "http://babaalbus.com/")
 
-####Objective
+#### Objective
 In this challenge, we practice creating buttons in JavaScript. Check out the attached tutorial for learning materials.
 
-####Task
+#### Task
 Complete the code in the editor so that it creates a clickable button satisfying the following properties:
 
 	The button's id is btn.
@@ -28,12 +28,12 @@ The .js and .css files are in different directories, so use the link tag to prov
     </body>
 </html>
 ```
-####Submissions
+#### Submissions
 This is a new style of challenge involving Front-End rendering. It may take up to 10 seconds to see the result of your code, so please be patient after clicking Submit. The Submissions page contains screenshots to help you gauge how well you did.
 
 Ask questions in the Discussions forum and submit any bug reports to support@hackerrank.com. Enjoy!
 
-####Explanation
+#### Explanation
 Initially, the button looks like this:
 (initial,"https://s3.amazonaws.com/hr-challenge-images/17983/1456614015-11045006f4-btn_initial.png")
 
