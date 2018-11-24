@@ -35,10 +35,10 @@ Ask questions in the Discussions forum and submit any bug reports to support@hac
 
 #### Explanation
 Initially, the button looks like this:
-(initial,"https://s3.amazonaws.com/hr-challenge-images/17983/1456614015-11045006f4-btn_initial.png")
+![](https://s3.amazonaws.com/hr-challenge-images/17983/1456614015-11045006f4-btn_initial.png)
 
 After the first  clicks, it looks like this:
-(four clicks,"https://s3.amazonaws.com/hr-challenge-images/17983/1456614041-e93e72ebf9-btn_4_clicks.png")
+![](https://s3.amazonaws.com/hr-challenge-images/17983/1456614041-e93e72ebf9-btn_4_clicks.png)
 
 After  more clicks, it looks like this:
-(nine clicks,"https://s3.amazonaws.com/hr-challenge-images/17983/1456614069-ee3675b288-btn_5_clicks.png")
+![](https://s3.amazonaws.com/hr-challenge-images/17983/1456614069-ee3675b288-btn_5_clicks.png)
