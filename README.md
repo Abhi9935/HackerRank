@@ -7,4 +7,5 @@
 1. [10 Days of JavaScript](https://github.com/Abhi9935/HackerRank/tree/master/10%20Days%20of%20Javascript)
 2. [30 Days Of Code](https://github.com/Abhi9935/HackerRank/tree/master/30%20Days%20Of%20Code)
 3. [Algorithms](https://github.com/Abhi9935/HackerRank/tree/master/Algorithms)
-4. [Java Practice Challenges](https://github.com/Abhi9935/HackerRank/tree/master/Java)
+4. [Java](https://github.com/Abhi9935/HackerRank/tree/master/Java)
+5. [Live Challenges](https://github.com/Abhi9935/HackerRank/tree/master/Contests)
