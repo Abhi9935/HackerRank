@@ -60,6 +60,8 @@ process.stdin.on('end', _ => {
 function readLine() {
     return inputString[currentLine++];
 }
+```
+```
 
 /**
 *   A line of code that prints "Hello, World!" on a new line is provided in the editor. 
@@ -76,7 +78,8 @@ function greeting(parameterVariable) {
     console.log(parameterVariable);
 }
 
-
+```
+```
 function main() {
     const parameterVariable = readLine();
     
