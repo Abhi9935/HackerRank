@@ -9,3 +9,4 @@
 3. [Algorithms](https://github.com/Abhi9935/HackerRank/tree/master/Algorithms)
 4. [Java](https://github.com/Abhi9935/HackerRank/tree/master/Java)
 5. [Live Challenges](https://github.com/Abhi9935/HackerRank/tree/master/Contests)
+6. [Sample Practice Test](https://github.com/Abhi9935/HackerRank/tree/master/Practices)
