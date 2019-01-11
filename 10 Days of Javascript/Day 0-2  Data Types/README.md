@@ -32,13 +32,13 @@ Print the following three lines of output:
 		before *secondString*.
 
 #### Sample Input 0
-12
-4.32
+12 </br>
+4.32 </br>
 is the best place to learn and practice coding!
 
 #### Sample Output 0
-16
-8.32
+16 </br>
+8.32 </br>
 HackerRank is the best place to learn and practice coding!
 
 #### Explanation 0
