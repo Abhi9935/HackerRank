@@ -11,3 +11,4 @@ You will need to use the same (or similar) syntax to read input and write output
 1. [Day 0: Hello, World](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day0-HelloWorld.java)
 2. []()
 3. [Day 2: Operators](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day2-Operators.java)
+4. [Day 3: Intro to Conditional Statements](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day3-Intro%20toConditional_Statements.java)
