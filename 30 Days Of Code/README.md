@@ -7,3 +7,7 @@
 ## Overview: 30 Days of Code
 In this challenge, we review some basic concepts that will get you started with this series.
 You will need to use the same (or similar) syntax to read input and write output in challenges throughout HackerRank.
+
+1. [Day 0: Hello, World](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day0-HelloWorld.java)
+2. []()
+3. [Day 2: Operators](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day2-Operators.java)
