@@ -7,8 +7,8 @@
 ## Overview: 10 Days of JavaScript
 This series focuses on learning and practicing JavaScript. Each challenge comes with a tutorial article, and you can view these articles by clicking either the Topics tab along the top or the article icon in the right-hand menu.
 
-1.1 [Day 0: Hello, World!](https://github.com/Abhi9935/HackerRank/tree/master/10%20Days%20of%20Javascript/Day%200%20Hello%2C%20World!)
-1.2 [Day 0: Data Types](https://github.com/Abhi9935/HackerRank/tree/master/10%20Days%20of%20Javascript/Day%200-2%20%20Data%20Types)
+1. [Day 0: Hello, World!](https://github.com/Abhi9935/HackerRank/tree/master/10%20Days%20of%20Javascript/Day%200%20Hello%2C%20World!) </br>
+   [Day 0: Data Types](https://github.com/Abhi9935/HackerRank/tree/master/10%20Days%20of%20Javascript/Day%200-2%20%20Data%20Types)
 2.
 3.
 4.
