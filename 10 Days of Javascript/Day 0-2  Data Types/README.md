@@ -19,9 +19,9 @@ You must use the + operator to perform the following sequence of operations:
 #### Input Format
 <table>
 	<tr><th>Data Type</th><th>Parameter</th><th>Description</th></tr>
-	<tr><td>string</td><td>*secondInteger*</td><td>The string representation of an integer you must sum with *firstInteger*.</td></tr>
-	<tr><td>string</td><td>*secondDecimal*</td><td>The string representation of a floating-point number you must sum with *firstDecimal*.</td></tr>
-	<tr><td>string</td><td>*secondString*</td><td>A string of one or more space-separated words you must append to *secondString*.</td></tr>
+	<tr><td>string</td><td><i>secondInteger</i></td><td>The string representation of an integer you must sum with <i>firstInteger</i>.</td></tr>
+	<tr><td>string</td><td><i>secondDecimal</i></td><td>The string representation of a floating-point number you must sum with <i>firstDecimal</i>.</td></tr>
+	<tr><td>string</td><td><i>secondString</i></td><td>A string of one or more space-separated words you must append to <i>secondString</i>.</td></tr>
 </table>
 
 #### Output Format
