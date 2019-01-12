@@ -12,5 +12,15 @@ You will need to use the same (or similar) syntax to read input and write output
 2. []()
 3. [Day 2: Operators](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day2-Operators.java)
 4. [Day 3: Intro to Conditional Statements](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day3-Intro%20toConditional_Statements.java)
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
 15. [Day 14: Scope](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day14-Scope.java)
 16. 
