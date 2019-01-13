@@ -4,4 +4,4 @@
 
 1. [Introduction]()
 2. [Strings](https://github.com/Abhi9935/HackerRank/tree/master/Java/String)
-      <pre>2.1 [Strings > Java Anagrams]()</pre>
+      <pre>2.1 [Strings > Java Anagrams](https://github.com/Abhi9935/HackerRank/tree/master/Java/String)</pre>
