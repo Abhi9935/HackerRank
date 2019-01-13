@@ -3,5 +3,5 @@
 ###### author: [**Abhinav Kushwaha (Baba Albus)**](http://babaalbus.com/ "http://babaalbus.com/")
 
 1. [Introduction]()
-2. [Strings](https://github.com/Abhi9935/HackerRank/tree/master/Java/String)
-      <pre>2.1 [Strings > Java Anagrams](https://github.com/Abhi9935/HackerRank/tree/master/Java/String)</pre>
+2. [Strings](https://github.com/Abhi9935/HackerRank/tree/master/Java/String)</br>
+            2.1 [Strings > Java Anagrams](https://github.com/Abhi9935/HackerRank/blob/master/Java/String/Java_Anagrams.java)
