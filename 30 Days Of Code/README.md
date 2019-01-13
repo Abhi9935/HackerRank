@@ -37,4 +37,4 @@ You will need to use the same (or similar) syntax to read input and write output
 27.
 28.
 29.
-30.
+30. [Day 29 : Bitwise AND](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day29-Bitwise_AND.java)
