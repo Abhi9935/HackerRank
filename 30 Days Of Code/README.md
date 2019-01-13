@@ -26,3 +26,4 @@ You will need to use the same (or similar) syntax to read input and write output
 16. [Day 15: Linked List](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day15-Linked_List.java)
 17. [Day 16: Exceptions - String to Integer](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day16-Exceptions_%20StringToInteger.java)
 18. [Day 17: More Exceptions](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day17-More_Exceptions.java)
+19. [Day 18: Queues and Stacks](https://github.com/Abhi9935/HackerRank/blob/master/30%20Days%20Of%20Code/Day18-Queues_and_Stacks.java)
