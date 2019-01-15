@@ -4,4 +4,5 @@
 ---
 1. [WarmUp Challenges](https://github.com/Abhi9935/HackerRank/tree/master/Algorithms/Warmup)  
          1.1 [A Very Big Sum](https://github.com/Abhi9935/HackerRank/blob/master/Algorithms/Warmup/A_VeryBigSum.java)
+         1.2 [Birtday Cake Candles](https://github.com/Abhi9935/HackerRank/blob/master/Algorithms/Warmup/BirthdayCakeCandles.java)
 
