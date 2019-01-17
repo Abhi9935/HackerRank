@@ -13,7 +13,9 @@ This series focuses on learning and practicing JavaScript. Each challenge comes 
 3.
 4.
 5.
-6. [Day 6 : Bitwise Operators](https://github.com/Abhi9935/HackerRank/tree/master/10%20Days%20of%20Javascript/Day%206-1%20Bitwise%20Operators)
+6. [Day 6 : Bitwise Operators](https://github.com/Abhi9935/HackerRank/tree/master/10%20Days%20of%20Javascript/Day%206-1%20Bitwise%20Operators)</br>
+   [Day 6 : JavaScript Dates](https://github.com/Abhi9935/HackerRank/tree/master/10%20Days%20of%20Javascript/Day%206-2%20JavaScript%20Dates)
+
 7.
 8. [Day 8 Create a Button](https://github.com/Abhi9935/HackerRank/tree/master/10%20Days%20of%20Javascript/Day%208%20Create%20a%20Button)
 
