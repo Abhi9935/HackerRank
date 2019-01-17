@@ -30,10 +30,10 @@ Sunday </br>
 Wednesday </br>
 
 #### Explanation 0
-The function is called for the following **d=2** dates:
-	1. The date 10/11/2009 was a Sunday, so we return Sunday.
+The function is called for the following *d=2* dates:</br>
+	1. The date 10/11/2009 was a Sunday, so we return Sunday.</br>
 	2. The date 11/10/2010 was a Wednesday, so we return Wednesday.
----
+
 ```
 'use strict';
 
