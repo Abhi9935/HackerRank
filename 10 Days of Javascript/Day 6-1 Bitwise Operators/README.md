@@ -56,6 +56,6 @@ The maximum of any *a&b* that is also *<k* is *1*, so we return 1.
 2
 
 #### Explanation 1
-We perform the following *q=2* function calls:
-	1. When *n=9* and *k=2*, the maximum of any *a&b<k* in set *S={1,2,3,4,5,6,7,8,9}* is *1* (see table above), so we return 1.
+We perform the following *q=2* function calls: <br>
+	1. When *n=9* and *k=2*, the maximum of any *a&b<k* in set *S={1,2,3,4,5,6,7,8,9}* is *1* (see table above), so we return 1. <br>
 	2. When *n=8* and *k=3*, the maximum of any *a&b<k* in set *S={1,2,3,4,5,6,7,8}* is *2* (see table above), so we return 2.
