@@ -27,15 +27,15 @@ Each of the *q* subsequent lines defines a dataset for a function call in the fo
 Return the maximum possible value of *a&b<k* for any *a<b* in sequence *S*.
 
 #### Sample Input 0
-3
-5 2
-8 5
-2 2
+3 <br>
+5 2 <br>
+8 5 <br>
+2 2 <br>
 
 #### Sample Output 0
-1
-4
-0
+1 <br>
+4 <br>
+0 <br>
 
 #### Explanation 0
 We perform the following *q=3* function calls:
@@ -47,12 +47,12 @@ The maximum of any *a&b* that is also *<k* is *1*, so we return 1.
  3. When *n=2* and *k=2*, the maximum of any *a&b<k* in set *S={1,2}* is 0 (see table above), so we return 0.
 
 #### Sample Input 1
-2
-9 2
-8 3
+2 <br>
+9 2 <br>
+8 3 <br>
 
 #### Sample Output 1
-1
+1 <br>
 2
 
 #### Explanation 1
