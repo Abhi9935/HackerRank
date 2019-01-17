@@ -59,3 +59,58 @@ The maximum of any *a&b* that is also *<k* is *1*, so we return 1.
 We perform the following *q=2* function calls: <br>
 	1. When *n=9* and *k=2*, the maximum of any *a&b<k* in set *S={1,2,3,4,5,6,7,8,9}* is *1* (see table above), so we return 1. <br>
 	2. When *n=8* and *k=3*, the maximum of any *a&b<k* in set *S={1,2,3,4,5,6,7,8}* is *2* (see table above), so we return 2.
+
+```
+'use strict';
+
+process.stdin.resume();
+process.stdin.setEncoding('utf-8');
+
+let inputString = '';
+let currentLine = 0;
+
+process.stdin.on('data', inputStdin => {
+    inputString += inputStdin;
+});
+
+process.stdin.on('end', _ => {
+    inputString = inputString.trim().split('\n').map(string => {
+        return string.trim();
+    });
+    
+    main();    
+});
+
+function readLine() {
+    return inputString[currentLine++];
+}
+```
+```
+function getMaxLessThanK(n, k) {
+    let count = 0;
+    var summ;
+    for (var b = 1; b <= n; b++) {
+        for (var a = 1; a < b; a++) {
+            summ = a & b;
+            if (summ < k) {
+                if (summ > count) {
+                    count = summ;  
+                } 
+            }
+        }
+    }
+    return count;
+}
+```
+```
+
+function main() {
+    const q = +(readLine());
+    
+    for (let i = 0; i < q; i++) {
+        const [n, k] = readLine().split(' ').map(Number);
+        
+        console.log(getMaxLessThanK(n, k));
+    }
+}
+```
