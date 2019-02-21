@@ -7,5 +7,6 @@
          1.2 [A Very Big Sum](https://github.com/Abhi9935/HackerRank/blob/master/Algorithms/Warmup/A_VeryBigSum.java)</br>
          1.3 [Birtday Cake Candles](https://github.com/Abhi9935/HackerRank/blob/master/Algorithms/Warmup/BirthdayCakeCandles.java)</br>
          1.4 [Time Conversion](https://github.com/Abhi9935/HackerRank/tree/master/Algorithms/Warmup/Time%20Conversion)
-2. [Sorting]()
+         
+2. [Sorting](https://github.com/Abhi9935/HackerRank/tree/master/Algorithms/Sorting)
          2.1 [Big Sorting](https://github.com/Abhi9935/HackerRank/blob/master/Algorithms/Sorting/Big_Sorting.java) 
