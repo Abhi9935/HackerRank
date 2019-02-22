@@ -5,7 +5,6 @@ import java.util.*;
 import java.util.regex.*;
 
 public class Solution {
-
     /*
      * Complete the timeConversion function below.
      */
@@ -30,7 +29,6 @@ public class Solution {
 
         bw.write(result);
         bw.newLine();
-
         bw.close();
     }
 }
