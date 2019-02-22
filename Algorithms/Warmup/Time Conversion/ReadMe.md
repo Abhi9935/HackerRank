@@ -1,5 +1,6 @@
 ##### Practice >> Algorithms >> Warmup >> Time Conversion
 ## Time Conversion
+##### 1. [Java : Time Conversion Solution](https://github.com/Abhi9935/HackerRank/blob/master/Algorithms/Warmup/Time%20Conversion/TimeConversion.java)
 ---
 ### Problem
 Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
